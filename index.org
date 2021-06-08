@@ -1,8 +1,80 @@
 #+TITLE: Sajt neki
+#+SUBTITLE: Sabtitel
 #+AUTHOR:   Milos Stojko
 
+#+HTML_LINK_HOME: milostojko.xyz
+
 #+STARTUP: latexpreview
+#+STARTUP: inlineimages
 #+STARTUP: contents
 
 #+DESCRIPTION: Neka tamo deskripcija bre
 #+KEYWORDS: Takođe se ne vidi na latex PDF, evo, neki, drugi, tag
+
+#+OPTIONS: title:nil author:nil date:nil
+
+* Evo ga
+
+$E=mc^2$
+
+$$x = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}}\left(x - vt'\right)$$
+
+Tekst duderino
+
+[[./1.jpeg]]
+
+
+-----
+
+** Malo linkovi sad
+
+Evo prvi [[https://milostojko.xyz/hello.html][link]] . A evo i drugi [[./no.html]]
+
+** Stilizovan tekst
+
+Ovo je /italik/, a ovo je *bold*, ovo je +strikethrough+, ovo je _underlined_.
+Ovo je */bold italik/*, ovo je =verbatim=.
+
+*** Evo *C++*
+
+#+begin_src cpp
+  #include<iostream>
+  int main(){
+    std::cin >> a;
+    std::cout << a * a * a;
+  
+    return 0;
+  }
+#+end_src
+
+Todo:
+- [ ] Prvi
+- [X] drugi
+- [ ] Treci
+
+Some list:
+- Task 1
+- Task 2
+- And the third
+
+Numbered list:
+  1. First
+  2. Second
+  3. Third
+
+** Quote desu
+
+#+BEGIN_QUOTE
+Sometimes when I close my eyes, I can't see. - Some dude
+#+END_QUOTE
+
+
+* Malo tablice i te forice
+
+#+CAPTION: ime tabele
+| Prvi                         | Drugi                      |
+|------------------------------+----------------------------|
+| Tu sam                       | Nisam                      |
+| You missed the damn train CJ | I'll have two number nines |
+| A Number nine large          | Number six with extra dip  |
+| Okay fat dud                 |                            |

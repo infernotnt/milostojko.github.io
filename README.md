@@ -1,2 +1,0 @@
-# milostojko.github.com
-sajt
