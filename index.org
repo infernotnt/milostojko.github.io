@@ -3,6 +3,7 @@
 #+AUTHOR:   Milos Stojko
 
 #+HTML_LINK_HOME: milostojko.xyz
+#+HTML_HEAD: <link rel="icon" type="image/png" href="icon.png"/>
 
 #+STARTUP: latexpreview
 #+STARTUP: inlineimages
