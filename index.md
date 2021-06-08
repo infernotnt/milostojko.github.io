@@ -6,12 +6,11 @@ toc: true
 
 Random content.
 
-Evo neka slika: ![Slika][1.jpeg]
+Evo neka slika: ![Slika](1.jpeg)
 
-Evo neki [link][hello.html], a evo jos jedan <https://milostojko.xyz/no.html>
+Evo neki [link](hello.html), a evo jos jedan <https://milostojko.xyz/no.html>
 
 ## Heading number dva
-
 
 *Italik* teskt, **bold tekst**.
 
@@ -40,26 +39,6 @@ Evo neki [link][hello.html], a evo jos jedan <https://milostojko.xyz/no.html>
 | Bold            | `**bold text**`                    |
 |-----------------|------------------------------------|
 | Italic          | `*italicized text*`                |
-|-----------------|------------------------------------|
-| Blockquote      | `> blockquote`                     |
-|-----------------|------------------------------------|
-|                 | `1. First item`                    |
-| Ordered list    | `1. Second item`                   |
-|                 | `1. Third item`                    |
-|-----------------|------------------------------------|
-|                 | `* First item`                     |
-| Unordered list  | `* Second item`                    |
-|                 | `* Third item`                     |
-|-----------------|------------------------------------|
-| Code            | `code`                             |
-|-----------------|------------------------------------|
-| Horizontal rule | `----`                             |
-|-----------------|------------------------------------|
-| Link            | `[title](https://www.example.com)` |
-|-----------------|------------------------------------|
-| Link            | `<https://www.example.com>`        |
-|-----------------|------------------------------------|
-| Image           | `![alt text](image.jpg)`           |
 
   : Opis ove tabele
 

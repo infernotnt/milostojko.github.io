@@ -1,1 +1,1 @@
-![yas][power-of-yes.jpg]
+![yas](power-of-yes.jpg)
