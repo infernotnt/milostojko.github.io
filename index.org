@@ -2,7 +2,7 @@
 #+SUBTITLE: Sabtitel
 #+AUTHOR:   Milos Stojko
 
-#+HTML_LINK_HOME: milostojko.xyz
+#+HTML_LINK_HOME: https://milostojko.xyz
 #+HTML_HEAD: <link rel="icon" type="image/png" href="icon.png"/>
 
 #+STARTUP: latexpreview
