@@ -1,18 +1,14 @@
 #+TITLE: Sajt neki
-#+SUBTITLE: Sabtitel
 #+AUTHOR:   Milos Stojko
-
-#+HTML_LINK_HOME: https://milostojko.xyz
-#+HTML_HEAD: <link rel="icon" type="image/png" href="icon.png"/>
 
 #+STARTUP: latexpreview
 #+STARTUP: inlineimages
 #+STARTUP: contents
 
-#+DESCRIPTION: Neka tamo deskripcija bre
-#+KEYWORDS: Takođe se ne vidi na latex PDF, evo, neki, drugi, tag
+#+OPTIONS: title:nil author:nil date:nil html-postamble:nil
 
-#+OPTIONS: title:nil author:nil date:nil
+#+HTML_LINK_HOME: https://milostojko.xyz
+#+HTML_HEAD: <link rel="icon" type="image/png" href="icon.png"/>
 
 * Evo ga
 

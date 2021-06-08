@@ -1,1 +1,8 @@
+#+TITLE: Sajt neki
+
+#+OPTIONS: title:nil author:nil date:nil html-postamble:nil
+
+#+HTML_LINK_HOME: https://milostojko.xyz
+#+HTML_HEAD: <link rel="icon" type="image/png" href="icon.png"/>
+
 [[./hellothere.jpg]]
