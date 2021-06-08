@@ -1,0 +1,8 @@
+#+TITLE: Sajt neki
+#+AUTHOR:   Milos Stojko
+
+#+STARTUP: latexpreview
+#+STARTUP: contents
+
+#+DESCRIPTION: Neka tamo deskripcija bre
+#+KEYWORDS: Takođe se ne vidi na latex PDF, evo, neki, drugi, tag
